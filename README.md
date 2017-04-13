@@ -1,19 +1,8 @@
 # PrettyGirls
 
-![](http://i.imgur.com/ommnZui.png)
+
 
 一个基于MVP+Retrofit+RxJava+MaterialDesign和gank.io的MeiZhi客户端。
-
-#项目截图
-
-![](http://i.imgur.com/T9U8g5b.jpg)
-
-![](http://i.imgur.com/ivGy3ga.jpg)
-
-![](http://i.imgur.com/HI3PipV.png)
-
-[下载](http://pre.im/A7n1)
-
 
 
 ##依赖库
