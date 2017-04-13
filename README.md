@@ -14,21 +14,7 @@
 
 [下载](http://pre.im/A7n1)
 
-#更新日志
 
-##V1.0.0
-
-    初步完成整个App的开发。
-
-#下个版本目标
-
-    优化baselibrary，完善缓存策略
-
-#关于
-
-亲，喜欢就start一下吧
-
-您可以在这里提出您宝贵的[意见和想法](https://github.com/PleaseCallMeCoder/PrettyGirls/issues)
 
 ##依赖库
 
@@ -46,19 +32,5 @@
 
 compile 'com.android.support:design:23.0.1'————谷歌Material Design控件库
 
-#鸣谢
 
-[代码家-干货集中营](http://gank.io/)
-
-[OXO](https://github.com/oxoooo/mr-mantou-android)
-
-[所有开源的人](https://github.com)
-
-#联系方式
-
-邮箱：18231195685@sina.cn
-
-#我的博客
-
-[点击查看我的博客](http://blog.csdn.net/sdkfjksf?viewmode=list)
 
